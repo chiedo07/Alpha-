@@ -1,2 +1,7 @@
 My First Repo
+<<<<<<< HEAD
 i am a dev eng
+=======
+I am A devops Engineer
+Merry Christmas
+>>>>>>> feature
