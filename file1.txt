@@ -1,6 +1,4 @@
-
->>>>>>> feature
-=======
+My First Repo
 I am A devops Engineer
 Merry Christmas
->>>>>>> feature
+
